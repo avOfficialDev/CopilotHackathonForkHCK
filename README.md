@@ -1,5 +1,6 @@
 # GitHub Copilot Hackathon
 This is my personal copy
+genlwgewlg
 Demo project for running labs to evaluate Copilot viability
 
 - [Goal](#goal)
